@@ -13,6 +13,7 @@
 		F13C7DBE2833DF0900E4621F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F13C7DBC2833DF0900E4621F /* Main.storyboard */; };
 		F13C7DC02833DF0900E4621F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F13C7DBF2833DF0900E4621F /* Assets.xcassets */; };
 		F13C7DC32833DF0900E4621F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F13C7DC12833DF0900E4621F /* LaunchScreen.storyboard */; };
+		F13C7DCB2833E2D300E4621F /* configViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13C7DCA2833E2D300E4621F /* configViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F13C7DBF2833DF0900E4621F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F13C7DC22833DF0900E4621F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F13C7DC42833DF0900E4621F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F13C7DCA2833E2D300E4621F /* configViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = configViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F13C7DB62833DF0900E4621F /* AppDelegate.swift */,
 				F13C7DB82833DF0900E4621F /* SceneDelegate.swift */,
 				F13C7DBA2833DF0900E4621F /* ViewController.swift */,
+				F13C7DCA2833E2D300E4621F /* configViewController.swift */,
 				F13C7DBC2833DF0900E4621F /* Main.storyboard */,
 				F13C7DBF2833DF0900E4621F /* Assets.xcassets */,
 				F13C7DC12833DF0900E4621F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F13C7DBB2833DF0900E4621F /* ViewController.swift in Sources */,
 				F13C7DB72833DF0900E4621F /* AppDelegate.swift in Sources */,
+				F13C7DCB2833E2D300E4621F /* configViewController.swift in Sources */,
 				F13C7DB92833DF0900E4621F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
